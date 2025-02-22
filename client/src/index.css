@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:opsz,wght@14..32,500&family=Outfit:wght@100..900&display=swap');
+@import "tailwindcss";
+
+
+*{
+    font-family: 'inter',serif;
+}
+
+.btn-primary{
+    @apply bg-gradient-to-r from-sky-400 to-sky-700 px-5 py-2 rounded-full text-white font-semibold active:scale-95
+}
+
+section{
+    @apply px-5 py-15 container mx-auto 
+} 
