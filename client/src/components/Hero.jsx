@@ -87,7 +87,7 @@ const Hero = () => {
               <button
               className='btn-primary max-sm:text-xs flex items-center gap-2 absolute left-[50%] bottom-[-18px] translate-x-[-50%] text-sm cursor-pointer hover:scale-102  '
               >
-                MORE FILTERS 
+                APPLY FILTERS 
                 <i className="fa-solid fa-filter"></i> 
               </button>
 
