@@ -13,7 +13,7 @@ const Footer = () => {
             <source src="/ocean_loop.mp4" type="video/mp4" />
             Your browser does not support the video tag.
           </video>
-          <div className="w-full h-full bg-sky-400 absolute -z-5 mix-blend-multiply"></div>
+          <div className="w-full h-full bg-sky-400 absolute top-0 left-0 -z-5 mix-blend-multiply"></div>
 
           
 
@@ -61,6 +61,7 @@ const Footer = () => {
                 <div className=" min-w-[150px]  grid justify-items-center">
                   <p className="max-sm:mt-5">
                     OUR AGENCY
+                  </p>
                     <div className="grid gap-2 mt-5 text-sm text-zinc-700">
                       <p className='cursor-pointer hover:text-sky-700 hover:translate-x-2 transition-all'>  Service</p>
                       <p className='cursor-pointer hover:text-sky-700 hover:translate-x-2 transition-all'>  Agency</p>
@@ -68,11 +69,11 @@ const Footer = () => {
                       <p className='cursor-pointer hover:text-sky-700 hover:translate-x-2 transition-all'>  Insurance</p>
                       <p className='cursor-pointer hover:text-sky-700 hover:translate-x-2 transition-all'>  Payment</p>
                     </div>
-                  </p>
                 </div>
                 <div className="min-w-[150px] grid justify-items-center ">
                   <p className=" max-sm:mt-5">
                     OUR AGENCY
+                  </p>
                     <div className="grid gap-2 mt-5 text-sm text-zinc-700">
                       <p className='cursor-pointer hover:text-sky-700 hover:translate-x-2 transition-all'>Service</p>
                       <p className='cursor-pointer hover:text-sky-700 hover:translate-x-2 transition-all'>Agency</p>
@@ -80,11 +81,11 @@ const Footer = () => {
                       <p className='cursor-pointer hover:text-sky-700 hover:translate-x-2 transition-all'>Insurance</p>
                       <p className='cursor-pointer hover:text-sky-700 hover:translate-x-2 transition-all'>Payment</p>
                     </div>
-                  </p>
                 </div>
                 <div className="min-w-[150px] grid justify-items-center ">
                   <p className=" max-sm:mt-5">
                     OUR AGENCY
+                  </p>
                     <div className=" grid gap-2 mt-5 text-sm text-zinc-700 ">
                       <p className='cursor-pointer hover:text-sky-700 hover:translate-x-2 transition-all'>Service</p>
                       <p className='cursor-pointer hover:text-sky-700 hover:translate-x-2 transition-all'>Agency</p>
@@ -92,7 +93,6 @@ const Footer = () => {
                       <p className='cursor-pointer hover:text-sky-700 hover:translate-x-2 transition-all'>Insurance</p>
                       <p className='cursor-pointer hover:text-sky-700 hover:translate-x-2 transition-all'>Payment</p>
                     </div>
-                  </p>
                 </div>
             </div>
 

@@ -4,17 +4,19 @@ import Hero from "./components/Hero";
 import MostVisite from "./components/MostVisite";
 import Hotels from "./components/Hotels";
 import Footer from "./components/Footer";
+import Catagory from "./pages/Catagory";
 
 const App = () => {
   return (
     <div>
-      <Header/>
       <Hero/>
-      <MostVisite/>
+      <Catagory/>
       <Hotels/>
-      <Footer/>
+      <MostVisite/>
     </div>
   );
 };
+
+
 
 export default App;

@@ -1,0 +1,132 @@
+[{
+  "_id": {
+    "$oid": "67b9b687472aa93814435954"
+  },
+  "name": "The Oberoi Udaivilas",
+  "city": "Udaipur",
+  "catagory": "Heritage Luxury",
+  "pricePerNight": 301,
+  "description": "A royal experience with a lakeside view and traditional Rajasthani architecture.",
+  "isVerified": true,
+  "image": "https://www.themilliardaire.com/en/wp-content/uploads/2014/02/Oberoi-Udaivilas-Udaipur-1.jpg"
+},
+{
+  "_id": {
+    "$oid": "67b9b687472aa93814435956"
+  },
+  "name": "The Leela Palace",
+  "city": "New Delhi",
+  "catagory": "Modern Luxury",
+  "pricePerNight": 217,
+  "description": "A contemporary luxury hotel in the heart of India's capital.",
+  "isVerified": true,
+  "image": "https://images.trvl-media.com/hotels/4000000/3860000/3851700/3851663/713529d0_z.jpg"
+},
+{
+  "_id": {
+    "$oid": "67b9b687472aa93814435957"
+  },
+  "name": "ITC Grand Chola",
+  "city": "Chennai",
+  "catagory": "Traditional Luxury",
+  "pricePerNight": 145,
+  "description": "Inspired by Chola architecture, this hotel offers a blend of heritage and modern luxury.",
+  "isVerified": true,
+  "image": "https://cache.marriott.com/marriottassets/marriott/MAALC/maalc-exterior-9797-hor-feat.jpg"
+},
+{
+  "_id": {
+    "$oid": "67b9b687472aa93814435958"
+  },
+  "name": "Taj Falaknuma Palace",
+  "city": "Hyderabad",
+  "catagory": "Heritage Luxury",
+  "pricePerNight": 265,
+  "description": "A restored Nizam’s palace offering an experience of royal opulence.",
+  "isVerified": true,
+  "image": "https://www.steppestravel.com/us/app/uploads/2019/06/taj-falaknuma-palace-hyderabad-india-1920x1080.jpg"
+},
+{
+  "_id": {
+    "$oid": "67b9b687472aa93814435959"
+  },
+  "name": "JW Marriott Mumbai Juhu",
+  "city": "Mumbai",
+  "catagory": "Modern Luxury",
+  "pricePerNight": 181,
+  "description": "A beachfront luxury hotel known for its elegant design and premium service.",
+  "isVerified": true,
+  "image": "https://r1imghtlak.mmtcdn.com/1e0467f2237611e888530a4cef95d023.jpg"
+},
+{
+  "_id": {
+    "$oid": "67b9b6ff472aa9381443595b"
+  },
+  "name": "Burj Al Arab",
+  "city": "Dubai",
+  "pricePerNight": 1500,
+  "description": "One of the most luxurious hotels in the world, offering stunning architecture and top-tier hospitality.",
+  "isVerified": true,
+  "image": "https://cdn.jumeirah.com/-/mediadh/dh/hospitality/jumeirah/hotels/dubai/burj-al-arab-jumeirah/hero/burj-al-arab-profile-exterior_6-4_landscape.jpg",
+  "catagory": "Luxury"
+},
+{
+  "_id": {
+    "$oid": "67b9b6ff472aa9381443595c"
+  },
+  "name": "The Plaza Hotel",
+  "city": "New York",
+  "pricePerNight": 1000,
+  "description": "A historic and iconic hotel in the heart of New York City, known for its grandeur and luxury.",
+  "isVerified": true,
+  "image": "https://www.themilliardaire.com/en/wp-content/uploads/2014/10/the-plaza-hotel-new-york-4.jpg",
+  "catagory": "Luxury"
+},
+{
+  "_id": {
+    "$oid": "67b9b6ff472aa9381443595d"
+  },
+  "name": "Ritz Paris",
+  "city": "Paris",
+  "pricePerNight": 1200,
+  "description": "A prestigious hotel known for its elegance, history, and world-class service in Paris.",
+  "isVerified": true,
+  "image": "https://www.orminatours.com/wp-content/uploads/2018/07/France-Paris-The-Ritz-9.jpg",
+  "catagory": "Luxury"
+},
+{
+  "_id": {
+    "$oid": "67b9b6ff472aa9381443595e"
+  },
+  "name": "Taj Lake Palace",
+  "city": "Udaipur",
+  "pricePerNight": 800,
+  "description": "A stunning hotel on Lake Pichola offering royal heritage and unmatched beauty.",
+  "isVerified": true,
+  "image": "https://www.tata.com/content/dam/tata/images/newsroom/heritage/desktop/50_years_taj_lake_palace_banner_desktop_1920x1080.jpg",
+  "catagory": "Heritage Luxury"
+},
+{
+  "_id": {
+    "$oid": "67b9b6ff472aa9381443595f"
+  },
+  "name": "Marina Bay Sands",
+  "city": "Singapore",
+  "pricePerNight": 900,
+  "description": "A modern architectural marvel featuring an infinity pool with breathtaking city views.",
+  "isVerified": true,
+  "image": "https://www.jomjalan.com/wp-content/uploads/2019/03/marina-sands.jpg",
+  "catagory": "Modern Luxury"
+},
+{
+  "_id": {
+    "$oid": "67b9b6ff472aa93814435960"
+  },
+  "name": "The Ritz-Carlton",
+  "city": "Kyoto",
+  "pricePerNight": 700,
+  "description": "A blend of traditional Japanese aesthetics and modern luxury, located along the Kamogawa River.",
+  "isVerified": true,
+  "image": "https://global-uploads.webflow.com/5cf16f74881a650c03c2f354/5ea1d4535b00b8683a6625da_50373940_2600x1585.jpg",
+  "catagory": "Traditional Luxury"
+}]
